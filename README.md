@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Kashyapa
+
+![snake gif](https://github.com/kashyapa01/kashyapa01/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **kashyapa01/kashyapa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
